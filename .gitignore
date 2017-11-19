@@ -87,10 +87,9 @@ target/
 .idea
 
 # IPython / Jupyter notebook files
-*.ipynb
 .ipynb_checkpoints
 
 # Documentation build files
 
 # Course specific
-*/MNIST_data/*
+*.gz
