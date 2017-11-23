@@ -4,7 +4,7 @@ This is the repository for course material (input and output) for the ODL traini
 
 ## Installing ODL
 
-Check out the [online instructions](https://odlgroup.github.io/odl/getting_started/installing.html). Use the `conda` variant if possible, it has proven to be least troublesome. If you find any errors or experience issues, please get back to us (@kohr-h or @adler-j).
+Check out the [online instructions](https://odlgroup.github.io/odl/getting_started/installing.html). Use the `conda` variant if possible, it has proven to be least troublesome. If you find any errors or experience issues, please get back to us ([@kohr-h](https://github.com/kohr-h) or [@adler-j](https://github.com/adler-j)).
 
 ## Jupyter Notebooks
 
