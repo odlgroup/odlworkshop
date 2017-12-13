@@ -93,3 +93,8 @@ target/
 
 # Course specific
 *.gz
+
+# Downloaded data (pytorch)
+code/data/raw/
+code/data/processed/
+
