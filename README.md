@@ -4,7 +4,7 @@ This is the repository for course material (input and output) for the ODL traini
 
 ## Installing ODL
 
-Check out the [online instructions](https://odlgroup.github.io/odl/getting_started/installing.html). Use the `conda` variant if possible, it has proven to be least troublesome. If you find any errors or experience issues, please get back to us ([@kohr-h](https://github.com/kohr-h) or [@adler-j](https://github.com/adler-j)).
+The latest version of ODL and some supporting libraries are needed in order to use these notebooks. See the [installation instructions](code/part0_install.ipynb) for further information.
 
 ## Jupyter Notebooks
 
@@ -27,3 +27,7 @@ in a terminal. Sometimes one gets `OSError: [Errno 99] Cannot assign requested a
     jupyter notebook --ip=127.0.0.1
 
 The notebooks can also be viewed online as static HTML pages. This works (somewhat) on GitHub directly, but better with [nbviewer](https://nbviewer.jupyter.org/). Just copy the URL of the notebook into the text field at that page.
+
+## Feedback
+
+If you find any errors or experience issues, please get back to us ([@kohr-h](https://github.com/kohr-h) or [@adler-j](https://github.com/adler-j)) or [create an issue](https://github.com/adler-j/odlworkshop/issues/new).
