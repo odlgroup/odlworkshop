@@ -1,6 +1,6 @@
 # ODL course material
 
-This is the repository for course material (input and output) for the ODL training at KTH in Stockholm, December 2017.
+This is the repository for course material (input and output) for the [ODL](https://github.com/odlgroup/odl) training at KTH in Stockholm, December 2017.
 
 ## Installing ODL
 
